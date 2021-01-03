@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\KIIT\.android\build-cache\647aea7a2ecb55f490eac09cab7a54a78da05f7d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="C:\Users\KIIT\Downloads\Miwok-udacity-master\Miwok-udacity-master\app\build\intermediates\pre-dexed\debug\classes_181f8bc4a82343346dc322f99a5545dfade77586.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\KIIT\.android\build-cache\7726b8fbbe12822e3adac0d86d1c0e348d869b49\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\KIIT\Downloads\Miwok-udacity-master\Miwok-udacity-master\app\build\intermediates\pre-dexed\debug\classes_d06718663ed96ccf63ef5aa5f90f3a9d83f2088f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\KIIT\.android\build-cache\7726b8fbbe12822e3adac0d86d1c0e348d869b49\output\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\KIIT\Downloads\Miwok-udacity-master\Miwok-udacity-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_0c16f3e8c9615ad549d0d332c9bb28f571f4ac7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\KIIT\.android\build-cache\c57dcb901c2a2d2e9b63cb01b43ec8b5fe5a4e36\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="C:\Users\KIIT\Downloads\Miwok-udacity-master\Miwok-udacity-master\app\build\intermediates\pre-dexed\debug\classes_927ff79b25e5e93dcbf221f045fe7ddb6a063d67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\KIIT\.android\build-cache\56e9c40a0b45f1b8438c5aa4338070f09a045f9f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\KIIT\Downloads\Miwok-udacity-master\Miwok-udacity-master\app\build\intermediates\pre-dexed\debug\classes_4352300d320990e1086f91a7777e37842fcb9edd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\KIIT\.android\build-cache\39571b7051eec3a903f10f6134d0e97e8fd08603\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="C:\Users\KIIT\Downloads\Miwok-udacity-master\Miwok-udacity-master\app\build\intermediates\pre-dexed\debug\classes_591a826925667161da42bbcfd5e557fb7e835859.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="M:\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\KIIT\Downloads\Miwok-udacity-master\Miwok-udacity-master\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_7eb06b22f1a09e52e418a49b6481efa7d46569ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\KIIT\.android\build-cache\0ec95cdb209a0a41f24757c36d2639c8d91baf2b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="C:\Users\KIIT\Downloads\Miwok-udacity-master\Miwok-udacity-master\app\build\intermediates\pre-dexed\debug\classes_519c87db54fb5073a9a2733903fa493177f42cee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="M:\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\KIIT\Downloads\Miwok-udacity-master\Miwok-udacity-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.3.0_0f69ad1fb29846c34e71b349feb1877bb17e4047.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\KIIT\.android\build-cache\dd77d7dc4345569b7cbc301d58548a9babe2c873\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="C:\Users\KIIT\Downloads\Miwok-udacity-master\Miwok-udacity-master\app\build\intermediates\pre-dexed\debug\classes_8a90f1f62aefe2ef6981cfd04dbf16bfb1376df2.jar" />
+    </item>
+
+</items>
